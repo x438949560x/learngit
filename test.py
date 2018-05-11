@@ -3,4 +3,4 @@
 print("Hello Git!")
 print("fuck")
 print("hello git")
-print("modified")
+print("git")
